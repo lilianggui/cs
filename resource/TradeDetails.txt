@@ -1,0 +1,6 @@
+LongStoplossCount:0.0
+LongTradeNumber:0
+ShortStoplossCount:0.0
+ShortTradeNumber:0
+TI_MODE:1
+date:2018-05-31

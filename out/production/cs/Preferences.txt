@@ -1,0 +1,15 @@
+Account:DF1027615
+Contract:201805
+Currency:HKD
+Trend Identifier:0.5
+Stoploss:0.25
+Trail-Stop:1
+ABR Day:20
+Product Tick Size:1
+Slippage (Tick):10
+Market Open Time:09:14:00
+Market Close Time:16:30:00
+1st Pre-Entry Placement Time:09:15:00
+Entry Cut-off Time:16:15:00
+Position Exit Average (Minute):3
+Last Position Cut-off Time:16:29:45

@@ -1,0 +1,8 @@
+Dollar Per Point:$10.0
+Risk-Per-Trade (RPT):2.5%
+Leverage Ratio:10.0%
+Start-up Equity:$100000.0
+Adjustment:$0.0
+Current Equity:1000070.25
+Day Max Loss RPT:2.0
+Max Margin Level:90.0%
